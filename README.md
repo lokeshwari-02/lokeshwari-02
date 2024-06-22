@@ -1,10 +1,10 @@
 Hello!Tech  Enthusiasts👋
-- 👀 I'm a 2nd year undergraduate focusing on Java developmnt.
-- 🌱 I’m currently learning  Data Structures & Algorithms.
+- 👀 I'm a 3rd year undergraduate focusing on Web development.
+- 🌱 I’m currently learning  Data Structures & Algorithms,Java.
 - 🤔 Exploring new technologies like AI/ML , Data Science .
 
 🛠 Tech Stack
-💻   C | Python | Java
+💻   R | Python | Java
 🌐   HTML | CSS |
 🛢   MySQL
 🔧   Canva | Visual Studio code | Git
